@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1558382502 source:c:\users\user\desktop\tsp vjezbe\lista.cpp
+	"lista.h"
+
+1558360764 c:\users\user\desktop\tsp vjezbe\lista.h
+	"lista.cpp"
+
+1558382502 c:\users\user\desktop\tsp vjezbe\lista.cpp
+	"lista.h"
+
+1558895476 source:c:\users\user\desktop\tsp vjezbe\testiranje.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	<ctime>
+	"dinamicko.h"
+	"graf.h"
+	"lista.h"
+
+1554409519 c:\users\user\desktop\tsp vjezbe\dinamicko.h
+	<vector>
+
+1558888133 c:\users\user\desktop\tsp vjezbe\graf.h
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<algorithm>
+	<cmath>
+	<climits>
+	<ctime>
+	<functional>
+	<queue>
+	"lista.h"
+	"netezinski_graf.h"
+
+1558880740 c:\users\user\desktop\tsp vjezbe\netezinski_graf.h
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+
